@@ -9,3 +9,6 @@ Welcome To My Repository.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongGeun2&count_private=false&include_all_commits=false&show_icons=true&theme=react&hide_border=true&hide_title=true) 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
