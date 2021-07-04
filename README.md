@@ -5,4 +5,4 @@ Welcome To My Repository.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongGeun2&show_icons=true&theme=react&hide=stars&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongGeun2&count_private=true&show_icons=true&theme=react&hide=stars)
