@@ -1,4 +1,4 @@
-<h2>DongGeun</h2>
+<h1>DongGeun</h1>
 
 ### Hi there 👋
 
