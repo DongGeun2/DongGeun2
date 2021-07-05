@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome To My Repository.
+Welcome To, My Repository
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongGeun2&hide=python&layout=compact)
